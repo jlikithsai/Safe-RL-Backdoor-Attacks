@@ -5,9 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
+    "accelerate>=1.10.1",
+    "datasets>=4.3.0",
+    "evaluate>=0.4.6",
     "gymnasium>=0.28.1",
     "pygame==2.1.0",
     "safety-gymnasium>=1.0.0",
+    "sentencepiece>=0.2.1",
     "stable-baselines3>=2.3.2",
     "torch>=2.8.0",
+    "torchvision>=0.23.0",
+    "transformers>=4.57.1",
+    "trl>=0.24.0",
 ]
