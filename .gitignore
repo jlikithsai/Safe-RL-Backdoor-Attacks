@@ -11,3 +11,5 @@ wheels/
 
 .log
 /ppo_safety_logs/
+/data/
+/reward_model/
