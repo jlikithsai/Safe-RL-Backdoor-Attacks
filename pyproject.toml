@@ -9,6 +9,7 @@ dependencies = [
     "datasets>=4.3.0",
     "evaluate>=0.4.6",
     "gymnasium>=0.28.1",
+    "ipykernel>=6.31.0",
     "pygame==2.1.0",
     "safety-gymnasium>=1.0.0",
     "sentencepiece>=0.2.1",
